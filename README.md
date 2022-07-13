@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-## CSS
-## JS
-## HTML
+#### CSS
+#### JS
+#### HTML
 
