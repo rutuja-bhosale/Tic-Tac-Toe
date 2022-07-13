@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-CREATED WITH THE 
+created with the help of three languages are:
 #### CSS
 #### JS
 #### HTML
